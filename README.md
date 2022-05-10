@@ -6,7 +6,7 @@ cc0 collection | Hexagonal Zero NFT assets can be used by anyone without permiss
 
 IPFS Metadata
 
-IPFS Image
+[IPFS Image](https://gateway.pinata.cloud/ipfs/QmeV9C1VmJDJ7jCLy8GUwqhrRRj3VVxzood31pEyyWZtnw/000.png)
 
 # License
 
